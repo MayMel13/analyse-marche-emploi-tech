@@ -1,0 +1,61 @@
+﻿competence,famille_competence,nombre_offres,part_offres
+SQL,Bases de données,331,35.9002169197397
+Python,Langages,325,35.24945770065076
+Machine Learning,Machine Learning,239,25.92190889370933
+Power BI,BI et visualisation,208,22.559652928416483
+Agile / Scrum,Méthodes,153,16.594360086767896
+Azure,Cloud,125,13.557483731019524
+CI/CD,DevOps,118,12.79826464208243
+ETL / ELT,Data Engineering,112,12.147505422993492
+Spark,Data Engineering,109,11.822125813449023
+GCP,Cloud,106,11.496746203904555
+AWS,Cloud,101,10.954446854663773
+Git,DevOps,97,10.52060737527115
+Excel,BI et visualisation,96,10.412147505422993
+Databricks,Data Engineering,90,9.761388286334057
+Data Warehouse,Data Engineering,70,7.592190889370933
+Snowflake,Bases de données,60,6.507592190889371
+Docker,DevOps,60,6.507592190889371
+Deep Learning,Machine Learning,60,6.507592190889371
+Talend,Data Engineering,52,5.639913232104121
+LLM,IA générative et NLP,49,5.314533622559653
+Airflow,Data Engineering,48,5.206073752711497
+BigQuery,Bases de données,47,5.097613882863341
+Java,Langages,44,4.772234273318872
+PostgreSQL,Bases de données,44,4.772234273318872
+dbt,Data Engineering,43,4.663774403470716
+PyTorch,Machine Learning,42,4.55531453362256
+Kubernetes,DevOps,41,4.4468546637744035
+NLP,IA générative et NLP,41,4.4468546637744035
+Scala,Langages,39,4.229934924078091
+NoSQL,Bases de données,35,3.7960954446854664
+TensorFlow,Machine Learning,34,3.68763557483731
+Kafka,Data Engineering,34,3.68763557483731
+Qlik,BI et visualisation,32,3.470715835140998
+RAG,IA générative et NLP,32,3.470715835140998
+Oracle,Bases de données,32,3.470715835140998
+Linux,DevOps,31,3.3622559652928414
+Hadoop,Data Engineering,29,3.14533622559653
+SQL Server,Bases de données,27,2.928416485900217
+scikit-learn,Machine Learning,25,2.711496746203905
+Computer Vision,Machine Learning,24,2.6030368763557483
+Terraform,DevOps,23,2.4945770065075923
+SAS,BI et visualisation,21,2.27765726681128
+Looker,BI et visualisation,20,2.1691973969631237
+C++,Langages,19,2.0607375271149677
+LangChain,IA générative et NLP,15,1.6268980477223427
+MySQL,Bases de données,15,1.6268980477223427
+MongoDB,Bases de données,14,1.5184381778741864
+MLflow,Machine Learning,14,1.5184381778741864
+Transformers,IA générative et NLP,14,1.5184381778741864
+Bash,Langages,11,1.193058568329718
+C#,Langages,11,1.193058568329718
+Tableau,BI et visualisation,10,1.0845986984815619
+API REST,Développement,10,1.0845986984815619
+JavaScript,Langages,10,1.0845986984815619
+FastAPI,Développement,8,0.8676789587852495
+TypeScript,Langages,6,0.6507592190889371
+Flask,Développement,4,0.43383947939262474
+Django,Développement,3,0.32537960954446854
+R,Langages,2,0.21691973969631237
+XGBoost,Machine Learning,1,0.10845986984815618

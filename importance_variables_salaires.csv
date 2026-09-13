@@ -1,0 +1,74 @@
+﻿variable,importance,effet,variable_affichee
+categorie_metier_Autre,0.009414462171985848,,Métier : Autre
+categorie_metier_Data Analyst / BI,0.02258062441505442,,Métier : Data Analyst / BI
+categorie_metier_Data Engineer,0.01595498540374575,,Métier : Data Engineer
+categorie_metier_Data Management / Governance,0.015580283675191155,,Métier : Data Management / Governance
+categorie_metier_Data Project / Product,0.0035121189907392257,,Métier : Data Project / Product
+categorie_metier_Data Scientist,0.01741526462805787,,Métier : Data Scientist
+categorie_metier_IA / Machine Learning,0.014921683463991071,,Métier : IA / Machine Learning
+categorie_metier_Ingénieur IA / ML,0.0014667509473722138,,Métier : Ingénieur IA / ML
+categorie_metier_Software Engineering,0.0003104530973677816,,Métier : Software Engineering
+zone_geographique_Autre,0.03093570593789967,,Zone : Autre
+zone_geographique_Lille Métropole,0.0016257919504901665,,Zone : Lille Métropole
+zone_geographique_Lyon Métropole,0.005781155773544971,,Zone : Lyon Métropole
+zone_geographique_Nantes Métropole,0.009177196984736818,,Zone : Nantes Métropole
+zone_geographique_Niort,0.0025619614783995988,,Zone : Niort
+zone_geographique_Toulouse Métropole,6.324641223323966e-05,,Zone : Toulouse Métropole
+zone_geographique_Île-de-France,0.0727826186517075,,Zone : Île-de-France
+contrat_simplifie_CDD,0.07269165328256547,,Contrat : CDD
+contrat_simplifie_CDI,0.014379980685057943,,Contrat : CDI
+contrat_simplifie_Intérim,3.134884242229499e-05,,Contrat : Intérim
+experience_1 An(s),0.0076286562435822595,,Expérience : 1 An(s)
+experience_12 Mois,0.03404011977270636,,Expérience : 12 Mois
+experience_2 An(s),0.0036408419928587047,,Expérience : 2 An(s)
+experience_3 An(s),0.02306260771683666,,Expérience : 3 An(s)
+experience_4 An(s),0.002881707990614781,,Expérience : 4 An(s)
+experience_5 An(s),0.07860004180484577,,Expérience : 5 An(s)
+experience_6 An(s),0.011968341977917444,,Expérience : 6 An(s)
+experience_7 An(s),0.040059045495333546,,Expérience : 7 An(s)
+experience_Autre,0.03968274433744136,,Expérience : Autre
+experience_Débutant accepté,0.03834513086019647,,Expérience : Débutant accepté
+experience_Expérience exigée,0.003211296792226697,,Expérience : Expérience exigée
+competence__SQL,0.033405721636300005,,SQL
+competence__Python,0.02249828518020155,,Python
+competence__Power BI,0.025073748825202757,,Power BI
+competence__Machine Learning,0.01865278157401498,,Machine Learning
+competence__ETL / ELT,0.008941524328911493,,ETL / ELT
+competence__Agile / Scrum,0.01064252154881363,,Agile / Scrum
+competence__Azure,0.012989755671923573,,Azure
+competence__Excel,0.04437611611333032,,Excel
+competence__Git,0.018699112122732852,,Git
+competence__AWS,0.009593126469110171,,AWS
+competence__Spark,0.023972314959779313,,Spark
+competence__Data Warehouse,0.01351298056633265,,Data Warehouse
+competence__Talend,0.005988026077067642,,Talend
+competence__GCP,0.009722022164731135,,GCP
+competence__CI/CD,0.011021747360261345,,CI/CD
+competence__dbt,0.008248476285623052,,dbt
+competence__BigQuery,0.007408268047630262,,BigQuery
+competence__Snowflake,0.0026121907282486132,,Snowflake
+competence__Airflow,0.003167553536579192,,Airflow
+competence__Databricks,0.006538339695913318,,Databricks
+competence__PostgreSQL,0.010064758885526343,,PostgreSQL
+competence__LLM,0.0008882625884626831,,LLM
+competence__NoSQL,0.006810774308065671,,NoSQL
+competence__Deep Learning,0.003717569175461431,,Deep Learning
+competence__Java,0.04957947895714237,,Java
+competence__Docker,0.0015596198779387824,,Docker
+competence__Scala,0.010168794626370155,,Scala
+competence__Oracle,0.000710377827236936,,Oracle
+competence__NLP,0.0019186489818154436,,NLP
+competence__Looker,0.0007975705942531243,,Looker
+competence__C++,0.00151706038108347,,C++
+competence__SQL Server,0.00026139730041943127,,SQL Server
+competence__SAS,0.00736069150764244,,SAS
+competence__Linux,0.00019588924911225262,,Linux
+competence__Kubernetes,0.003823404599053688,,Kubernetes
+competence__Kafka,0.0002488242133477369,,Kafka
+competence__Tableau,0.00025649278769286903,,Tableau
+competence__Hadoop,0.0010282008291886571,,Hadoop
+competence__PyTorch,0.000469806213886933,,PyTorch
+competence__TensorFlow,0.0037967993216048964,,TensorFlow
+competence__Qlik,0.0029261691577913505,,Qlik
+competence__RAG,1.055758855702948e-05,,RAG
+competence__Terraform,0.0005164163585155125,,Terraform
